@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/expenses"
+        android:icon="@drawable/ic_receipt_black_24dp"
+        android:title="Expenses" />
+    <item
+        android:id="@+id/reports"
+        android:icon="@drawable/ic_directions_car_black_24dp"
+        android:title="Reports" />
+    <item
+        android:id="@+id/trips"
+        android:icon="@drawable/ic_access_time_black_24dp"
+        android:title="Trips" />
+</menu>
